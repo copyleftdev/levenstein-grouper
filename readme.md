@@ -1,6 +1,6 @@
 
 # Levenshtein-grouper
-
+![Screenshot](Screenshot%202023-10-02%20222056.png)
 ## Overview
 
 `Levenshtein-Grouper` is a powerful tool for computing the Levenshtein distances between lines of text in files within a specified directory. Designed with performance and scalability in mind, this tool is perfect for tasks that require text matching and comparison. It is especially useful in security contexts like duplicate identification, pattern recognition, and anomaly detection.
